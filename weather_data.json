@@ -1,0 +1,60 @@
+[
+  {
+    "day": "\u0427\u0435\u0442\u0432\u0435\u0440",
+    "date": "25",
+    "month": "\u0441\u0456\u0447\u043d\u044f",
+    "weather_description": "\u0425\u043c\u0430\u0440\u043d\u043e, \u0434\u043e\u0449 \u0437\u0456 \u0441\u043d\u0456\u0433\u043e\u043c",
+    "min_temp": "\u043c\u0456\u043d. 0\u00b0",
+    "max_temp": "\u043c\u0430\u043a\u0441. +4\u00b0",
+    "current_time": "\u041f\u043e\u0433\u043e\u0434\u0430 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456 \u043e 14:00",
+    "current_temp": "+4\u00b0C"
+  },
+  {
+    "day": "\u041f'\u044f\u0442\u043d\u0438\u0446\u044f",
+    "date": "26",
+    "month": "\u0441\u0456\u0447\u043d\u044f",
+    "weather_description": "\u0425\u043c\u0430\u0440\u043d\u043e, \u0441\u043b\u0430\u0431\u043a\u0438\u0439 \u0441\u043d\u0456\u0433",
+    "min_temp": "\u043c\u0456\u043d. -1\u00b0",
+    "max_temp": "\u043c\u0430\u043a\u0441. +1\u00b0"
+  },
+  {
+    "day": "\u0421\u0443\u0431\u043e\u0442\u0430",
+    "date": "27",
+    "month": "\u0441\u0456\u0447\u043d\u044f",
+    "weather_description": "\u0425\u043c\u0430\u0440\u043d\u043e, \u0434\u043e\u0449 \u0437\u0456 \u0441\u043d\u0456\u0433\u043e\u043c",
+    "min_temp": "\u043c\u0456\u043d. 0\u00b0",
+    "max_temp": "\u043c\u0430\u043a\u0441. +2\u00b0"
+  },
+  {
+    "day": "\u041d\u0435\u0434\u0456\u043b\u044f",
+    "date": "28",
+    "month": "\u0441\u0456\u0447\u043d\u044f",
+    "weather_description": "\u0425\u043c\u0430\u0440\u043d\u043e, \u043d\u0435\u0432\u0435\u043b\u0438\u043a\u0438\u0439 \u043c\u043e\u043a\u0440\u0438\u0439 \u0441\u043d\u0456\u0433",
+    "min_temp": "\u043c\u0456\u043d. 0\u00b0",
+    "max_temp": "\u043c\u0430\u043a\u0441. +2\u00b0"
+  },
+  {
+    "day": "\u041f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a",
+    "date": "29",
+    "month": "\u0441\u0456\u0447\u043d\u044f",
+    "weather_description": "\u0425\u043c\u0430\u0440\u043d\u043e",
+    "min_temp": "\u043c\u0456\u043d. -1\u00b0",
+    "max_temp": "\u043c\u0430\u043a\u0441. +3\u00b0"
+  },
+  {
+    "day": "\u0412\u0456\u0432\u0442\u043e\u0440\u043e\u043a",
+    "date": "30",
+    "month": "\u0441\u0456\u0447\u043d\u044f",
+    "weather_description": "\u041c\u0456\u043d\u043b\u0438\u0432\u0430 \u0445\u043c\u0430\u0440\u043d\u0456\u0441\u0442\u044c",
+    "min_temp": "\u043c\u0456\u043d. -3\u00b0",
+    "max_temp": "\u043c\u0430\u043a\u0441. +5\u00b0"
+  },
+  {
+    "day": "\u0421\u0435\u0440\u0435\u0434\u0430",
+    "date": "31",
+    "month": "\u0441\u0456\u0447\u043d\u044f",
+    "weather_description": "\u0425\u043c\u0430\u0440\u043d\u043e",
+    "min_temp": "\u043c\u0456\u043d. -3\u00b0",
+    "max_temp": "\u043c\u0430\u043a\u0441. +4\u00b0"
+  }
+]
